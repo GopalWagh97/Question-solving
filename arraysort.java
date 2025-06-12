@@ -4,7 +4,7 @@
 import java.util.Scanner;
 public class arraysort
 {
-    public static void main()
+    public static void main(String[]args)
     {
         Scanner sc=new Scanner(System.in);
         int arr[]={0,1,2,0,1,2,1,2,0,0};
